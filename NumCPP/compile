@@ -1,0 +1,3 @@
+#!/bin/bash
+
+g++ -Wall -o NumCpp main.cpp NumCpp1.cpp Tableau.cpp Operator.cpp
